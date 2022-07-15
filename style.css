@@ -1,0 +1,56 @@
+* {
+    text-align: center;
+  }
+  
+  body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 300px;
+    background-image: url("https://s2.glbimg.com/cq1uLcwUDrNnB-0m2vHfQIxKMhE=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/4/A/AfI3ZARGOmHBGCvZ2eGA/loja-misteriosa.jpg");
+    background-color: black;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 30px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: white;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: white;
+    margin-top: 8px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  table {
+    border: 2px solid white;
+    border-collapse: collapse;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  th,
+  tr,
+  td {
+    border: solid 3px white;
+    color: white;
+  }
